@@ -1,0 +1,4 @@
+repository "Gamified_Cards/Gamified_Cards@18967852646837@cloud"
+  path "/"
+    br "/main"
+    co "/main"

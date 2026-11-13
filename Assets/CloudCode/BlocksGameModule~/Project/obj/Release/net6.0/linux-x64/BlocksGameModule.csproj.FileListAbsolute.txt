@@ -1,0 +1,13 @@
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\linux-x64\BlocksGameModule.deps.json
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\linux-x64\BlocksGameModule.dll
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\linux-x64\BlocksGameModule.pdb
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.csproj.AssemblyReference.cache
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.AssemblyInfoInputs.cache
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.AssemblyInfo.cs
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.csproj.CoreCompileInputs.cache
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.sourcelink.json
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.dll
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\refint\BlocksGameModule.dll
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\BlocksGameModule.pdb
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\linux-x64\ref\BlocksGameModule.dll

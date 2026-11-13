@@ -1,0 +1,13 @@
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\any\BlocksGameModule.deps.json
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\any\BlocksGameModule.dll
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\bin\Release\net6.0\any\BlocksGameModule.pdb
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.csproj.AssemblyReference.cache
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.AssemblyInfoInputs.cache
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.AssemblyInfo.cs
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.csproj.CoreCompileInputs.cache
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.sourcelink.json
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.dll
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\refint\BlocksGameModule.dll
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\BlocksGameModule.pdb
+C:\Unity_Projects\Multiplayer_Tut\Gamified_Cards\Assets\CloudCode\BlocksGameModule~\Project\obj\Release\net6.0\any\ref\BlocksGameModule.dll
