@@ -1,16 +1,22 @@
 using UnityEngine;
+using Unity.Netcode;
+using Unity.Netcode.Components;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : NetworkBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public float speed = 20;
+
+    private NetworkTransform _transform;
+
+    private void Start()
     {
-        
+        _transform = GetComponent<NetworkTransform>();
+    }
+    private void Update()
+    {
+        if (!IsOwner) return;
+        var movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+        _transform.transform.position += movement * speed * Time.deltaTime;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
