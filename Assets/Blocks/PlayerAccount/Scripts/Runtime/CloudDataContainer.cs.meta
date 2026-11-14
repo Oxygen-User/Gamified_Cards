@@ -1,9 +1,2 @@
 fileFormatVersion: 2
-guid: aa952038b988040e8891920c7962e679
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/PlayerAccount/Scripts/Runtime/CloudDataContainer.cs
-  uploadId: 814420
+guid: 6f0c17dea33ef9c4fb041444cbaaccf5

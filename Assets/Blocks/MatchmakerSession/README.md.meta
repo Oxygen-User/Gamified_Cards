@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 11497889983dfaa4188f37f88eac6670
+guid: 9ca20a0abbf0bfc43ae049b97f788560
 TextScriptImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341932
-  packageName: Unity Building Block - Matchmaker Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MatchmakerSession/README.md
-  uploadId: 813778

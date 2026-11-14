@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6b200ab23c0194d55bddae14c53d3069
+guid: a99ac91422b3eb842a5a801e35c32e9f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/icon_rocketlauncher.png
-  uploadId: 814574

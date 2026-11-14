@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a62312c07c0b2614384f94694f045c64
+guid: 9e88d24be6fb8be4e9d5e2f091fc9639
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -9,10 +9,3 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/PlayerAccount/Scripts/Runtime/UI/PlayerNameLabel.cs
-  uploadId: 814420

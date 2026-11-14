@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f4b5f52c4eeaa494b874f69ad3ad6502
+guid: ba56ca6c886da524a834c072f7d0ba25
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/reticle_reload_circle.png
-  uploadId: 814574

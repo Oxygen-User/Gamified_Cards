@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4d55ba06bead8416d95c306ffffc8212
+guid: e3ae151527c110b41a415158cd58145d
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 63bf3c603cfe0074bbebae6f25f01190, type: 3}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341932
-  packageName: Unity Building Block - Matchmaker Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MatchmakerSession/Settings/MatchmakerQueue.mmq
-  uploadId: 813778

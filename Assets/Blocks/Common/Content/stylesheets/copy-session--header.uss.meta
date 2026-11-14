@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d0fe8ff6f2a1ef4fb1af3a5e8584135
+guid: 5091fc489e6fac74aaf4bf7dac7f8bf1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -10,10 +10,3 @@ ScriptedImporter:
   script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
   disableValidation: 0
   unsupportedSelectorAction: 0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/stylesheets/copy-session--header.uss
-  uploadId: 814574

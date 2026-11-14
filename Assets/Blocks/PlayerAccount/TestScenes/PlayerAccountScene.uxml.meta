@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d29c2d306c52c55458dfcdf4a150049f
+guid: e62c7bf22b1aad7478b37d57f128ec64
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/PlayerAccount/TestScenes/PlayerAccountScene.uxml
-  uploadId: 814420

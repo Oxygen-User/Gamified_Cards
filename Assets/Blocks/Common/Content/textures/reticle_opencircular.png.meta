@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f1ed4489e26334a3584296723c7c5b9b
+guid: 7f22e70f724c2b4498cbf3232fe26bee
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/reticle_opencircular.png
-  uploadId: 814574

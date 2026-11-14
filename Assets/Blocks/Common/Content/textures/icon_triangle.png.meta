@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e420d5e686954d1984835153e7faa8b
+guid: 9b008cbb2811e9c4ca50460e9a27516d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/icon_triangle.png
-  uploadId: 814574

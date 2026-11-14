@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d2af5de8321b14ea895549be3e2482e2
+guid: c7bad95575a7ad44b8145959530e266a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/icon_machinegun.png
-  uploadId: 814574

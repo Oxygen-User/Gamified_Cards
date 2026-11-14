@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f67ff1032230bd044bd68df85daae0ad
+guid: 929a02dc1ca6083449a545b2dc3bc67e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MultiplayerSession/UI/SessionBrowser.uxml
-  uploadId: 814574

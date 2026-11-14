@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5bdb0699e4b42d84488f9cab392a04ce
+guid: 3311e369d3c7ac846b428b9df8f83c5f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/PlayerAccount/Textures/Error@64.png
-  uploadId: 814420

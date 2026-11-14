@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 2cfb9f8e3ddac4dbcbf14316595abb1f
+guid: a1f487845160bb64a9ae1a78b15d3aea
 PrefabImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/PlayerAccount/Prefabs/UnityServicesWithInfoAndNameNoSignIn.prefab
-  uploadId: 814420

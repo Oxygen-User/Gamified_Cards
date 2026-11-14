@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85d499020c20cda49b883c8378409722
+guid: 66e4e5301e8e42e43a67565200c10ff1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341932
-  packageName: Unity Building Block - Matchmaker Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MatchmakerSession/Scenes/Matchmake/Matchmake.uxml
-  uploadId: 813778

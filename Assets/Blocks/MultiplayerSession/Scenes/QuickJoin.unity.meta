@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: e2b13694460000e45a036001fda36caa
+guid: 808eae83ebeb1ce409c7266398d5b4ab
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MultiplayerSession/Scenes/QuickJoin.unity
-  uploadId: 814574

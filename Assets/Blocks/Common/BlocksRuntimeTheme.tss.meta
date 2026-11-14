@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e74663645b63fe43ad48957a2398ce5
+guid: 9f7f9eae98aa639488f2c2563613d0f8
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,10 +9,3 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 12388, guid: 0000000000000000e000000000000000, type: 0}
   disableValidation: 0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/BlocksRuntimeTheme.tss
-  uploadId: 814574

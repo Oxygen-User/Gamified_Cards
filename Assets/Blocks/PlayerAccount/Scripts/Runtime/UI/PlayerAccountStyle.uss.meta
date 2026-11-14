@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5d50a336515511548b5ab101fb2f304d
+guid: ce882ee00230e8d4fa0afc500861996e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,10 +9,3 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
   disableValidation: 0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/PlayerAccount/Scripts/Runtime/UI/PlayerAccountStyle.uss
-  uploadId: 814420

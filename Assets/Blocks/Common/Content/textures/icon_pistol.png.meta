@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3b5072ab3d04743bdb476633780e7d85
+guid: 84170f0cfa62d7d49b094e64f9512fc7
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/icon_pistol.png
-  uploadId: 814574

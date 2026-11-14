@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6f32ef91cb40afc4aaa897ac7acc5ba7
+guid: 14e922012a5193c4a923a22482b38e3d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/icon_copy.png
-  uploadId: 814574

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c957e948b81d34cc38ace0a4d898348f
+guid: 8edabbe96b0617f4abb4650730c90a8c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/reticle_circularcross.png
-  uploadId: 814574

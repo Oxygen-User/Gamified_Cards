@@ -1,9 +1,2 @@
 fileFormatVersion: 2
-guid: ba07769653350420fbe786d5ad1d1d40
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341932
-  packageName: Unity Building Block - Matchmaker Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MatchmakerSession/Runtime/CancelMatchmakerSession/CancelMatchmakerSessionButton.cs
-  uploadId: 813778
+guid: 16e71181610bf944d8209c8810cfdfb5

@@ -1,9 +1,2 @@
 fileFormatVersion: 2
-guid: 5092878c82fa2624cae291fe02975c67
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/CommonSession/Runtime/PlayerCount/PlayerCountViewModel.cs
-  uploadId: 814574
+guid: e27ee50d695178e449d0aed40028224c

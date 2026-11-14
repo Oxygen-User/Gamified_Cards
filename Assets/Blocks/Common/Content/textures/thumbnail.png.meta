@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d64ab3d9efdd44d3b35a50db335af8c
+guid: d4742c20c06d8b74f91456c14856a186
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,10 +128,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/thumbnail.png
-  uploadId: 814574

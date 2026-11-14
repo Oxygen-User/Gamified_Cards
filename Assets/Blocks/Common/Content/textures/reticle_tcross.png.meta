@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3b472d971cf4e42188683834e6f05a4b
+guid: 09a3ceb6bf7424347b45ff204dcf9146
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -115,10 +115,3 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/textures/reticle_tcross.png
-  uploadId: 814574

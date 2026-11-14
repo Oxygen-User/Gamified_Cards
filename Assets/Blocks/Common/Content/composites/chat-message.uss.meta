@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a7fadc2a4fb2e466699f40e49e8984b9
+guid: 2df5a522d9195ff418abad37af25e254
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,10 +9,3 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
   disableValidation: 0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/composites/chat-message.uss
-  uploadId: 814574

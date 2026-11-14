@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 61182cacab9264041ab1581195560042
+guid: ea4e8dc06d58f094ab8ad453c21bfe5a
 DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341932
-  packageName: Unity Building Block - Matchmaker Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MatchmakerSession/Scenes/Matchmake.unity
-  uploadId: 813778

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ac8a6514e30d5487e8c3597727f1e1ff
+guid: 548b277c9d5226543bda165de1e19b77
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,10 +9,3 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
   disableValidation: 0
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Content/composites/card-component.uss
-  uploadId: 814574

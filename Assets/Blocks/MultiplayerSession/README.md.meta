@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 4346c20b4bc564a418900194c826dc7b
+guid: 095497d6050af6d4794d581dad3a0c6f
 TextScriptImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MultiplayerSession/README.md
-  uploadId: 814574

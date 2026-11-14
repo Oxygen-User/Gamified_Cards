@@ -1,14 +1,7 @@
 fileFormatVersion: 2
-guid: 510d22f9fb515c2299f915419086bb2b
+guid: 1c9a0bb8ce3f70d469bab8d610822a55
 AssemblyDefinitionImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/Common/Runtime/Blocks.Common.asmdef
-  uploadId: 814574

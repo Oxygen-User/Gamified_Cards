@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 383648d3bee1c074bbb7b5e67f0f91f8
+guid: e4265a96d5c11c743bf8b7e4ce12d823
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341930
-  packageName: Unity Building Block - Multiplayer Session
-  packageVersion: 1.0
-  assetPath: Assets/Blocks/MultiplayerSession/Scenes/QuickJoinDebug/QuickJoinDebug.uxml
-  uploadId: 814574

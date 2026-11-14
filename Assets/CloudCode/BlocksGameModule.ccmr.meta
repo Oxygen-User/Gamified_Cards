@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fd4473c04dd404c8c974a639d10069bf
+guid: 0941e8f31121798488873c4335ceac69
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,10 +8,3 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 60092a328e45738409eb0a2506757280, type: 3}
-AssetOrigin:
-  serializedVersion: 1
-  productId: 341928
-  packageName: Unity Building Block - Player Account
-  packageVersion: 1.0
-  assetPath: Assets/CloudCode/BlocksGameModule.ccmr
-  uploadId: 814420
