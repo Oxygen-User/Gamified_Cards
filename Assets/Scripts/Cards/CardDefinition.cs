@@ -15,6 +15,10 @@ public enum CardEffectType
 }
 
 
+
+[CreateAssetMenu(
+    fileName = "NewCard"
+)]
 public class CardDefinition
 {
     
