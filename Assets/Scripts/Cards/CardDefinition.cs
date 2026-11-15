@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 
@@ -17,9 +18,27 @@ public enum CardEffectType
 
 
 [CreateAssetMenu(
-    fileName = "NewCard"
+    fileName = "NewCard" ,
+    menuName = "Card Game/Card Definition"
 )]
-public class CardDefinition
+
+public class CardDefinition : ScriptableObject
 {
-    
+    [Header("Basic Information")]
+    public string cardID;
+    public string cardName;
+    public CardType cardType;
+
+    [Header("stats")]
+    [Min(0)] public int cost;
+    public int power;
+
+    [Header("Tags")]
+    public string[] tags;
+    public string[] requiredTags;
+
+    [Header("Artwork")]
+    public Sprite artwork;
+
+
 }
